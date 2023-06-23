@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dasunsennath
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning programming language like Java script , java , C#.
+- 🌱 I’m currently learning programming language like Java script , java , Python.
 - 💞️ I’m looking to collaborate on developing the web site 
 - 📫 How to reach me 
 
